@@ -14,4 +14,4 @@ Fee adjustment: A fair commission could be inserted into panter airdrop contract
 
 ![PANTER-AIRDROP.png](PANTER-AIRDROP.png)
 
-The interesting part is that anyone can donate any stx asset or tokens he wants into Satoshi-pegged sxt address. And those assets are only redeemable by Satoshi himself whether he is alive or not!
+The interesting part is that anyone can donate any stx asset or tokens he wants into Satoshi-pegged stx address. And those assets are only redeemable by Satoshi himself whether he is alive or not!
