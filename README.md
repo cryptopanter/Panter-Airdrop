@@ -13,4 +13,5 @@ Procedure:
 Fee adjustment: A fair commission could be inserted into panter airdrop contract fee. Let's say 2 stx tx fees, 1 sent to Satoshi-pegged address and 1 to devs address. 
 
 ![PANTER-AIRDROP.png](PANTER-AIRDROP.png)
+
 The interesting part is that anyone can donate any stx asset or tokens he wants into Satoshi-pegged sxt address. And those assets are only redeemable by Satoshi himself whether he is alive or not!
