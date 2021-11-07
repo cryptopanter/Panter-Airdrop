@@ -15,3 +15,5 @@ Fee adjustment: A fair commission could be inserted into panter airdrop contract
 ![PANTER-AIRDROP.png](PANTER-AIRDROP.png)
 
 The interesting part is that anyone can donate any stx asset or tokens he wants into Satoshi-pegged stx address. And those assets are only redeemable by Satoshi himself whether he is alive or not!...Thisway, we onboard Satoshi to stacks blockchain ;)
+
+**Notice:** There must be some security considerations for section 5 & 6 so that not anyone be able to copy-paste txid in the claiming form. 
